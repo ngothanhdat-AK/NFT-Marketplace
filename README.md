@@ -1,5 +1,7 @@
 # NFT Marketplace - Static Knowledge Page
 
+Duration: Oct 2024
+
 This is a static website sharing knowledge about HTML and CSS.  
 View it live at: [https://nft-marketplace-zeta-jade.vercel.app/](https://nft-marketplace-zeta-jade.vercel.app/)
 
